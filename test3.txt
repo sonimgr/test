@@ -1,3 +1,7 @@
 gdgfghfh
 hello
+<<<<<<< HEAD
 fourth line
+=======
+new line
+>>>>>>> 427c211d624378e39b47805213d6e09d3b85ea32
